@@ -5,10 +5,9 @@ Tri-State Economic Policy & Welfare Analysis
 # Project Overview
 This public policy research project analyzes the relationship between minimum wage changes, housing costs, and Supplemental Nutrition Assistance Program (SNAP) reliance. By using data across 112 counties in Pennsylvania, New Jersey, and Maryland, this project models how localized cost of living influences the purchasing power of minimum and low-wage workers.
 
-# 🗺️ Tri-State Economic Policy & Welfare Analysis Pipeline
-
-### Click the map preview below to launch the live, interactive Tableau Dashboard:
-[![Interactive Policy Dashboard](dashboard_preview.png)]([https://public.tableau.com/views/interstate_welfare/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+<a href="[https://public.tableau.com/views/interstate_welfare/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]" target="_blank">
+  <img src="dashboard_preview.png" alt="Launch Interactive Policy Dashboard" width="100%">
+</a>
 
 Move the minimum wage slider on the web dashboard to simulate real-time wage adjustments and track adjustments to housing budens and SNAP reliance across our 112 mapped counties.
 
