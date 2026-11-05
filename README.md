@@ -6,19 +6,6 @@ An analysis of how minimum wage levels, local rent, income, and unemployment rel
   <img src="dashboard_preview.png" alt="Launch Interactive Policy Dashboard" width="100%">
 </a>
 
-
-
-
-# Tri-State Economic Policy & Welfare Analysis
-
-An analysis of how minimum wage levels, local rent, income, and unemployment relate to SNAP participation across **112 counties in Pennsylvania, New Jersey, and Maryland**.
-
-[![Interactive Policy Dashboard](dashboard_preview.png)](https://public.tableau.com/views/interstate_welfare/Sheet1)
-
-**[Launch the interactive dashboard (Tableau Public)](https://public.tableau.com/views/interstate_welfare/Sheet1)**: move the minimum wage slider to compare each county's rent against the 30%-of-income housing affordability benchmark.
-
----
-
 ## Headline Finding: Lancaster County, PA
 
 | Measure | Value |
