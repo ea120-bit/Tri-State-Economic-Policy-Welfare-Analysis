@@ -91,7 +91,7 @@ A parameter slider lets a user choose a hypothetical minimum wage and compare it
 Requirements: Python 3.11 (`pandas`, `numpy`, `scikit-learn`, `census`, `matplotlib`), R (base `stats`).
 
 1. Request a free Census API key at https://api.census.gov/data/key_signup.html
-2. Set it as an environment variable (never commit a key to the repo):
+2. Set it as an environment variable:
    ```bash
    export CENSUS_API_KEY="your_key_here"
    ```
